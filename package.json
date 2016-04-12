@@ -9,8 +9,9 @@
   "author": "Gunjan Shukla",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.0.0-rc.3",
     "cheerio": "^0.20.0",
     "express": "^4.13.4",
-    "async": "^2.0.0-rc.3"
+    "ya-csv": "^0.9.4"
   }
 }
