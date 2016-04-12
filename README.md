@@ -1,2 +1,0 @@
-# FindLinks
-RentoMojo Assignment
